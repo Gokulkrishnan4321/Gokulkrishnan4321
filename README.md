@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Gokulkrishnan4321
-- 👀 I’m interested in Bioinformatics and Genomics
-- 🌱 I’m currently working on Multi omics
-- 💞️ Recently I have completed projects on in silico Drug design
-- 📫 Reach me via LinkedIn
-<!---
-Gokulkrishnan4321/Gokulkrishnan4321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Welcome to my GitHub! I’m a final-year Biotechnology student specializing in Bioinformatics, Genomics, Drug Discovery, and Synthetic Biology. Passionate about bridging wet lab innovations and dry lab advancements to solve real-world challenges.
+
+🔬 What I Do:
+-Develop AI/ML tools for healthcare, including disease prediction and biomarker discovery.
+-Work on MD Simulations, Docking Studies, and Pharmacokinetics Analysis for drug design.
+-Explore Metabolic Engineering and Systems Biology for cutting-edge research.
+-My Research works are Lumpy Skin Disease treatment, epigenomics, and multi-omics pipelines.
+
+📈 Let’s Connect:
+I’m always excited to collaborate on innovative projects in biotechnology and bioinformatics. Let’s build something extraordinary together! Connect with me on LinkedIn.
